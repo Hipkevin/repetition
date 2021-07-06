@@ -25,3 +25,7 @@
 对输入层、特征抽取层、输出层进行封装，将其定义为职责链的节点（顶层的父类继承nn.Module，使整个模型可以累积梯度）；
 
 通过build方法组合不同节点类的opt
+
+### 使用赛题语料训练的词向量(sg)
+链接：https://pan.baidu.com/s/1gukyfyIHIkUP6agMu7fpWQ 
+提取码：il1h
